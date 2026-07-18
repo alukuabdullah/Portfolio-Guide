@@ -17,4 +17,4 @@ A summary of my data analyst projects and case studies — SQL analysis, Power B
 
 ---
 
-⬅️ [Back to my profile](#)
+⬅️ [Back to my profile](https://github.com/alukuabdullah/alukuabdullah/blob/main/README.md)
